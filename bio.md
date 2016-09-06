@@ -4,4 +4,4 @@
 ### Github account: MKD93
 
 ###Photo of me:
-![Michael Duncan](images/me.jpg)
+![Michael Duncan](images/me.png)
