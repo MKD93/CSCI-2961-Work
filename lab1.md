@@ -1,9 +1,10 @@
 ##CSCI-2961 Lab 1 Work
 ### c.
 
-    2.
+    2. In order to answer questions in a more helpful and useful way, it may be important to address one's answer to a question while
+       utilizing different learning methods (e.g. visual learning, etc.).
 
-    3.
+    3. A second useful way to answer questions more effectively involves volume and clarity; it is important to be clear and concise     in both questioning and answering.
 
 ### d. Unix Stuff
 
@@ -33,5 +34,5 @@
 
 ![Blockly Solution #10](images/lab1_blockly.png)
 
-g.
+g. Many different subject fields in computer science interest me; particularly problems involved within computer graphics, cryptography, compressios, and machine learning. I have not chosen any particular project as of yet to invest time and work into.
 
