@@ -7,9 +7,9 @@
        A second useful way to answer questions more effectively involves volume and clarity; it is important to be clear and concise in both questioning and answering.
        
     3. After reading chapter 3 of "Free Culture", I was disturbed and upset with what I read. I feel that the RIAA lawsuit against
-       Jesse was unjust and unnecessary; especially since he was not directly at fault for the illegal distribution of audio files.
-       It is sad that a creator and an innovator can easily become the target of an archaic and corrupt system that puts morals aside
-       in exchange for profit.
+       Jesse was unjust and unnecessary. I think that this is especially true, since he was not directly at fault for the illegal distribution of audio files. I was sad to read that a creator and an innovator can easily become the target of an archaic and corrupt system that puts morals aside in exchange for profit. This chapter sheds some light on the importance of establishing
+       legal boundaries within software or other projects. If Jesse had established an acceptable use policy or license for the
+       search engine involved in this legal case, then he would probably not have been in such an unfortunate position.
 
 ### d. Unix Stuff
 
