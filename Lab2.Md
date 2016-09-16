@@ -6,8 +6,6 @@
 
 ####5. Android devices likely use the Apache 2.0 license because Google would like to establish greater support for Android devices. Support is more likely to be established due to the Apache 2.0 license being permissive; hence allowing businesses and institutions to use, modify, and develop on Android devices without having to worry much about licensing conflicts and issues. The permissiveness of Android's licensing also encourages app developers to participate, allowing for a lively system of phone apps developers and users.
 
-####6. 
-
 ####7. For a developer, all three of the listed license are excellent choices. It is hard to say what the "best" license is, as the developer may have different goals or ideas about the progression and purpose of the project. Personally, I favor the LGPL for libraries and the GPL for software.
 
 ####  For a company, the best license choice would probably be the Apache License; as this license seems to protect and serve the company interests. The Apache License is a logical choice for a company, as it encourages use, modification, and distribution of the company products.
@@ -16,4 +14,12 @@
 
 ####9. I have been interested in exploring and utilizing psuedo-random number generating and noise generating algorithms. I would like to create something that is procedurally generated, yet looks "natural". I do not have any target audience in mind, but those who would be interested in this project would also probably be interested in learning about the concepts used. I would probably use the MIT license, or a similarly permissive license depending on future circumstances.
 
-####10. 
+####10.
+
+Website | License Present | License
+---------|:----------|:-------
+https://github.com/rcos/observatory3 | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/wtg/shuttle_tracking_2 | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/Submitty/Submitty | Yes | BSD License https://en.wikipedia.org/wiki/BSD_licenses
+https://github.com/copperwater/yacs | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/wtg/RPI_Tours_iOS | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
