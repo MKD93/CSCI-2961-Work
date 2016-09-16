@@ -8,8 +8,12 @@
 
 6. 
 
-7. 
+7. For a developer, all three of the listed license are excellent choices. It is hard to say what the "best" license is, as the developer may have different goals or ideas about the progression and purpose of the project. Personally, I favor the LGPL for libraries and the GPL for software.
 
-9. 
+For a company, the best license choice would probably be the Apache License; as this license seems to protect and serve the company interests. The Apache License is a logical choice for a company, as it encourages use, modification, and distribution of the company products.
+
+For the common good, the most permissive license would be the best choice. Personally, I favor the MIT license for this option, but as it is not a choice, I would say one of the GNU licenses would be the best for the "common good".
+
+9. I have been interested in exploring and utilizing psuedo-random number generating and noise generating algorithms. I would like to create something that is procedurally generated, yet looks "natural". I do not have any target audience in mind, but those who would be interested in this project would also probably be interested in learning about the concepts used. I would probably use the MIT license, or a similarly permissive license depending on future circumstances.
 
 10.
