@@ -29,3 +29,6 @@ https://github.com/MKD93/lab3part1
 ![lgb_c](images/lab3_lgb_c.jpg)
 
 ##Part 3
+###4. https://github.com/MKD93/courseproject
+
+###5. https://github.com/MKD93/Story-Fall2016
