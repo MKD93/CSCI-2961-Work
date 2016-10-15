@@ -25,4 +25,11 @@ The Weird Side of Youtube | 11 | 10672 | November 29, 2015 | October 13, 2016 | 
 ![Symphony Sketch](images/lab6_v4.jpg)
 ![The Weird Side of YouTube](images/lab6_v5.jpg)
 
+###Project "Leaders"
+####Spoiless: luciencd (owner of original repository)
+####Square Meals: harrij15
+####Submitty: multiple leaders?
+####Symphony Sketch: loqmat
+####The Weird Side of YouTube: mmetro
+
 ##Part 2
