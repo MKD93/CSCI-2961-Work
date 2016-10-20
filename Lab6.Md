@@ -33,3 +33,5 @@ The Weird Side of Youtube | 11 | 10672 | November 29, 2015 | October 13, 2016 | 
 ####The Weird Side of YouTube: mmetro
 
 ##Part 2
+###Lab 6 Python Code: https://github.com/MKD93/lab6
+![Markdown Unittest](images/lab6_p2.jpg)
