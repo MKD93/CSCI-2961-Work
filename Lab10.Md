@@ -23,4 +23,22 @@ if __name__ == '__main__':
 ```
 ##Checkpoint 5
 ```
+from pymongo import MongoClient
+from pprint import pprint
+import random
+import time
+import datetime
+
+client = MongoClient()
+db = client['csci2963']
+collection = db['definitions']
+
+if __name__ == '__main__':
+    index = random.randint(0, collection.count() - 1)
+    record = collection.find().limit(-1).skip(index).next()
+    time = datetime.datetime.now().strftime("%y-%m-%d-%H-%M")
+    
+    pprint record
+    collection.update({"word" : record["word"]}, {"$push" : {"dates" : time}})
+    pprint record
 ```
